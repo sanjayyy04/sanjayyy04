@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m a developer who enjoys turning ideas into real-world projects.  <br> I love learning new tech, solving problems, and building things that actually matter.
 
 
